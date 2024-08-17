@@ -1,4 +1,3 @@
-import '../style/Spinner.css'
 
 export const Spinner = () => {
 
